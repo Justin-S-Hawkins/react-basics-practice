@@ -14,8 +14,8 @@ Perfect for learning React or experimenting with simple NLP logic inside a minim
 🚀 No bundlers, Node, or installs required
 📂 Project Structure
 project/
-│── index.html      // Contains your React chatbot
-└── styles.css      // Optional styling
+│── index.html // Contains your React chatbot
+└── styles.css // Optional styling
 🛠️ Technologies Used
 HTML5
 React 18 (CDN)
