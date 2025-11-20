@@ -14,7 +14,7 @@ Perfect for learning React or experimenting with simple NLP logic inside a minim
 🚀 No bundlers, Node, or installs required
 📂 Project Structure
 project/
-│── index.html // Contains your React chatbot
+│── / // Contains your React chatbot
 └── styles.css // Optional styling
 🛠️ Technologies Used
 HTML5
@@ -24,7 +24,7 @@ Babel Standalone for JSX
 CSS (optional)
 🚀 Getting Started
 Download or clone the project.
-Open index.html in your browser.
+Open / in your browser.
 Start chatting with the bot!
 No terminal, no dependencies — everything runs in the browser.
 🧠 How the Chatbot Works
