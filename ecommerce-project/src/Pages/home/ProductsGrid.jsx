@@ -1,6 +1,6 @@
 import { formatMoney } from "../../utils/money";
 
-export function ProductsGrid(products) {
+export function ProductsGrid({ products }) {
   return (
     <div className="products-grid">
       {products.map((product) => {

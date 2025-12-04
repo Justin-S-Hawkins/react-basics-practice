@@ -40,7 +40,6 @@ export function OrdersPage({ cart }) {
                     <div>{order.id}</div>
                   </div>
                 </div>
-
                 <div className="order-details-grid">
                   {order.products.map((orderProduct) => {
                     return (
