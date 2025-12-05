@@ -30,7 +30,7 @@ export function PaymentSummary({ paymentSummary }) {
           <div className="payment-summary-row">
             <div>Estimated tax (10%):</div>
             <div className="payment-summary-money">
-              formatMoney(paymentSummary.taxCents)
+              {formatMoney(paymentSummary.taxCents)}
             </div>
           </div>
 
